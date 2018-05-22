@@ -1,3 +1,0 @@
-In order to assign domain to account you either have to update domain name server to us  OR You may also set the DNS "A" record for the domain "tvcuganda.org" to point to 173.254.28.188.
-
-These needs to be managed on registrar end. Without making these changes the domain cannot be assigned to account. 
