@@ -1,0 +1,22 @@
+To transfer your domain first you need to update the contact information. 
+
+Then you need to disable the domain privacy. 
+
+Then you need to update the name server to ns1.justhost.com and ns2.justhost.com
+
+Usually it will take 24 - 72 hours to complete worldwide.
+
+Then you need to unlock the domain from current registrar, and have EPP code from the current registrar. 
+
+Then from your JustHost account domain manager you can initiate the transfer. 
+
+To initiate transfer you need to follow this steps :
+
+1. Log into your Just Host Domain Manager.
+2. Click Transfer in the submenu at the top of the page.
+3. Enter the domain you want to transfer to your account, without www, and click Continue.
+4. Our system will check the domain's status to determine if it’s ready for the transfer. Remember, the transfer won't be approved if it's still locked. Enter the EPP code and click Continue.
+5. As part of our two-step verification process, we've emailed the Admin Verification code to the domain's administrator. Enter the code and click Continue.
+6. Here you have the option to change your name servers, set your renewal preference, and choose if you want to add domain privacy.
+7. Finally, check the box agreeing to the Terms of Service, then click Add to Cart.
+8. ICANN requires the gaining registrar to renew the domain for one year upon transfer, which you'll see in the Shopping Cart. Process the payment to initiate the transfer.
